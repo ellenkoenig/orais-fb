@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  question: 1
+  choice: 1
+  result_set: 
+
+two:
+  question: 1
+  choice: 1
+  result_set: 

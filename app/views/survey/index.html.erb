@@ -1,0 +1,51 @@
+<h1>What do you enjoy most doing?</h1>
+<h2><%=@survey["header"]["title"] %></h2>
+<%=@survey["header"]["intro"] %>
+<%= simple_form_for(@results, :html => {:multipart => true}, :url => survey_results_path(@results)) do |f| %>
+ 
+  <% f.object.survey_results.each_with_index do |result, index| %> 
+ 
+    <p> <em><%= (index +1) %> </em>: <%= @survey["questions"][index +1] %>
+      
+  <fieldset>
+    <%= f.simple_fields_for(result) do |question_form| %>
+      <ol>
+        <li><%= question_form.radio_button "choice", "1" %> Never in my life</li>
+        <li><%= question_form.radio_button :choice, "2" %> Not in the past year</li>
+        <li><%= question_form.radio_button :choice, "3" %> One or two times in the past year</li>
+        <li><%= question_form.radio_button :choice, "4" %> Three to ten times in the past year</li>
+        <li><%= question_form.radio_button :choice, "5" %> More than ten times in the past year</li>
+      </ol>
+      <%=question_form  .collection_radio_buttons :choice, [[1,  "Never"] ,[6, 'Always']], :first, :last %>
+
+    <% end %>
+    </fieldset>
+    
+    </p>
+  <% end %>
+  foo
+  
+    <%=f.collection_radio_buttons :survey_results, [[1,  "Never"] ,[6, 'Always']], :first, :last %>
+    
+    bar
+  
+  <%=f.submit "Score" %>
+  
+  <%= simple_form_for(@results.survey_results, :html => {:multipart => true}, :url => survey_results_path) do |f| %>
+  
+  <% @results.survey_results.each do |result| %>
+  <ol>
+        <li><%= f.radio_button "choice", "1" %> Never in my life</li>
+        <li><%= f.radio_button :choice, "2" %> Not in the past year</li>
+        <li><%= f.radio_button :choice, "3" %> One or two times in the past year</li>
+        <li><%= f.radio_button :choice, "4" %> Three to ten times in the past year</li>
+        <li><%= f.radio_button :choice, "5" %> More than ten times in the past year</li>
+      </ol>
+  
+<% end %>
+<%=f.submit "Score" %>  
+<% end %>
+
+<% end %>
+
+

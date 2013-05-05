@@ -1,0 +1,216 @@
+header		:
+  title: Oregon Avocational Interest Scales (ORAIS)
+   
+  intro: "Instructions:  Here are some things that people sometimes do.  Please indicate how frequently you have done each of them."
+  copyright: IFIP-Link und Referenz auf Autor-Paper
+
+questions:
+  1: Listened to music on the radio.
+  2: Discussed religion or spirituality.
+  3: Used a computer.
+  4: Discussed sports.
+  5: Washed dishes.
+  6: Went running or jogging.
+  7: Attended a public lecture.
+  8: Took a trip.
+  9: Cared for a potted plant.
+  10: Used a computer for social networking.
+  11: Went on a picnic.
+  12: Made an entry in a diary or journal.
+  13: Had someone over for dinner.
+  14: Played with a child.
+  15: Read a news magazine.
+  16: Obtained stock market prices.
+  17: Tried something completely new.
+  18: Signed a petition.
+  19: Spent 10 minutes or more in a non-grocery store.
+  20: Wrote a love letter.
+  21: Worked on a crossword puzzle.
+  22: Used public transportation.
+  23: Ate dinner alone.
+  24: Chewed gum.
+  25: Watched television.
+  26: Drove a car or truck.
+  27: Drank beer or wine.
+  28: Played with a pet animal.
+  29: Spent more than 10 minutes thinking about what to wear.
+  30: Watched an educational channel on TV.
+  31: Worked on my collection.
+  32: Listened to music while working.
+  33: Prayed (not including blessings at meals).
+  34: Sent a message by electronic mail (e-mail).
+  35: Watched a televised sports event.
+  36: Looked up a word in a dictionary.
+  37: Played bingo for money.
+  38: Made a bed.
+  39: Lifted weights.
+  40: Visited an art exhibition.
+  41: Went sightseeing.
+  42: Gardened.
+  43: Read someone’s personal web-page.
+  44: Went on a hike.
+  45: Wrote a postcard.
+  46: Went to a small party.
+  47: Let a child win a game.
+  48: Read the editorial page of a newspaper.
+  49: Went to the movies alone.
+  50: Produced a work of art.
+  51: Attended a rally or demonstration.
+  52: Fed a pet animal.
+  53: Went on a date.
+  54: Worked on a jigsaw puzzle.
+  55: Composted food scraps or yard waste.
+  56: Read a book on a financial topic.
+  57: Ate candy.
+  58: Watched television news.
+  59: Rode a motorcycle.
+  60: Surfed the Internet.
+  61: Spent an hour or more in a non-grocery store.
+  62: Drank whiskey, vodka, gin, or other hard liquor.
+  63: Read a self-help book.
+  64: Bought something for my collection.
+  65: Downloaded music from the Internet.
+  66: Read the Bible or other sacred text.
+  67: Spent more than an hour thinking about what to wear.
+  68: Attended an athletic event.
+  69: Gambled with cards or dice.
+  70: Cleaned the house.
+  71: Used an exercise machine.
+  72: Visited a museum.
+  73: Took travel photographs.
+  74: Did yard work.
+  75: Made an entry on a personal web-page.
+  76: Walked on a beach.
+  77: Wrote a handwritten letter.
+  78: Went to a large party.
+  79: Took a child on an outing.
+  80: Read news on the Internet.
+  81: Bought or sold stocks or bonds.
+  82: Wrote poetry.
+  83: Donated money to charity.
+  84: Cared for a pet animal.
+  85: Went dancing.
+  86: Played cards.
+  87: Walked or rode a bicycle to work.
+  88: Went to a concert or theater alone.
+  89: Traded something in my collection.
+  90: Watched a television soap opera
+  91: Read a car magazine or book.
+  92: Drank in a bar or night club.
+  93: Played a computer game.
+  94: Read a fashion-related magazine.
+  95: Bought a self-help book.
+  96: Ate in a restaurant.
+  97: Traded music with a friend.
+  98: Gave a blessing at a meal.
+  99: Bought something other than groceries.
+  100: Played a team sport.
+  101: Looked something up in an encyclopedia.
+  102: Purchased a scratch ticket.
+  103: Ironed linens or clothes.
+  104: Exercised for 40 minutes or longer.
+  105: Attended a ballet performance.
+  106: Stayed in a hotel, motel, or resort.
+  107: Planted or transplanted a plant.
+  108: Participated in an online discussion group.
+  109: Went swimming.
+  110: Wrote a thank-you note.
+  111: Planned a party.
+  112: Served as a baby sitter.
+  113: Read a book.
+  114: Bought or sold real estate.
+  115: Acted in a play.
+  116: Donated money to a political campaign or cause.
+  117: Bathed or groomed a pet animal.
+  118: Dined by candle light.
+  119: Played a board game.
+  120: Changed a habit to have less impact on the environment.
+  121: Chose to spend a day by myself.
+  122: Ordered food to be delivered.
+  123: Watched a television talk show.
+  124: Bought a car, truck, or motorcycle.
+  125: Became intoxicated.
+  126: Checked the sales ads in a newspaper.
+  127: Read a fashion-related book.
+  128: Studied some subject.
+  129: Did aerobic exercise.
+  130: Purchased a musical album.
+  131: Attended a church or religious service.
+  132: Looked up information on the Internet.
+  133: Played basketball.
+  134: Gambled on a slot machine or video poker game.
+  135: Cooked a meal.
+  136: Read a book about the things that I collect.
+  137: Attended an opera or a concert.
+  138: Traveled by train or plane.
+  139: Bought or picked flowers.
+  140: Read a story to a child.
+  141: Went backpacking or camping.
+  142: Put pictures in a photo album.
+  143: Entertained six or more people.
+  144: Volunteered for a club or organization.
+  145: Read poetry.
+  146: Purchased a commodity as an investment.
+  147: Painted a picture.
+  148: Used instant messaging to chat online.
+  149: Purchased a pet animal.
+  150: Attended a formal dance.
+  151: Played chess or checkers.
+  152: Used both sides of a piece of paper before discarding it.
+  153: Went on a trip by myself.
+  154: Ate food while walking or working.
+  155: Watched a television reality show.
+  156: Raced a car, truck, or motorcycle.
+  157: Had a hangover.
+  158: Read newspaper ads for non-grocery items.
+  159: Bought a fashionable item of clothing.
+  160: Learned a new skill.
+  161: Bought a book about the things that I collect.
+  162: Shopped in a music store.
+  163: Listened to a religious program on the radio or TV.
+  164: Wrote computer source code or scripts.
+  165: Played tennis or golf.
+  166: Went to a casino.
+  167: Baked a cake, pie, cookies, or bread.
+  168: Did yoga or other movement exercises.
+  169: Attended a stage play or musical.
+  170: Went on a cruise or tour.
+  171: Bought plants for a garden or yard.
+  172: Used an online dating web-site.
+  173: Went boating or rafting.
+  174: Worked on a scrap book.
+  175: Read the comics to a child.
+  176: Bought a book.
+  177: Worked on a retirement plan.
+  178: Played a musical instrument.
+  179: Shopped on the web.
+  180: Participated in an animal show.
+  181: Wore formal clothing.
+  182: Learned a new board or card game.
+  183: Read music-related news.
+  184: Spent an entire vacation by myself.
+  185: Ate too much.
+  186: Recorded a television program.
+  187: Drank alcohol during working hours.
+  188: Attended a town meeting.
+  189: Examined the clothing categories on eBay.
+  190: Enrolled in a course of study.
+  191: Knitted, quilted, sewed, or crocheted.
+  192: Picked up litter.
+  193: Read a book about religion or spirituality.
+  194: Went fishing or hunting.
+  195: Went online to chat with other collectors.
+  196: Participated in an exercise program.
+  197: Read a book about some artistic topic.
+  198: Bet money on a sports event.
+  199: Read in bed before going to sleep.
+  200: Sang or played an instrument in public.
+  201: Wrote a letter to a newspaper or politician.
+  202: Had a blind date.
+  203: Recycled one or more items.
+  204: Ate or drank while driving.
+  205: Watched too much television.
+  206: Used eBay to buy or sell something.
+  207: Used an mp3 player or Ipod.
+  208: Visited a public library.
+  209: Read an entire book in one sitting.
